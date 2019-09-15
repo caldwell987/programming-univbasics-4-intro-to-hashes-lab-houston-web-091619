@@ -32,8 +32,7 @@ end
 def read_from_hash(hash, key)
    sup = {
     :name => { 
-      (hash)
-    => { 
+      (hash)=> { 
       (key)
       }
     }
