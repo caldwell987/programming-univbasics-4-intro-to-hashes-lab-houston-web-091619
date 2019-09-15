@@ -17,9 +17,8 @@ def pioneer
 end
 
 def id_generator
-  number = 2
-  pioneer = {
-    :id_generator => (number)
+  sup = {
+    :key => 2
   }
 end
 
