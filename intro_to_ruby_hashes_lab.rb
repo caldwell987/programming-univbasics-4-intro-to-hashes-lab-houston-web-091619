@@ -21,7 +21,6 @@ def id_generator
   pioneer = {
     :id_generator => (number)
   }
-  return id_generator
 end
 
 def my_hash_creator(key, value)
