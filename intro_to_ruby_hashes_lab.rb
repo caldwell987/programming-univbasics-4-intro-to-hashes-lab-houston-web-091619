@@ -6,8 +6,7 @@ end
 
 def my_hash
    person = {
-     nam
-    
+     :name => "Daivd"
   }
 end
 
