@@ -17,9 +17,11 @@ def pioneer
 end
 
 def id_generator
+  number = 2
   pioneer = {
-    :id_generator => ("Grace Hopper")
+    :id_generator => (number)
   }
+  return id_generator
 end
 
 def my_hash_creator(key, value)
