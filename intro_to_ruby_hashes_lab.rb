@@ -20,6 +20,7 @@ def id_generator
   sup = {
     :key => 2
   }
+  return sup
 end
 
 def my_hash_creator(key, value)
