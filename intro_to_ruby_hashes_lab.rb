@@ -33,7 +33,7 @@ def read_from_hash(hash, key)
 sup = {
     (hash) => (key)
   }
-  return (hash)
+  return (key)
 end
 
 
