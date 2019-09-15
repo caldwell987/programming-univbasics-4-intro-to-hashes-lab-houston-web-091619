@@ -18,7 +18,7 @@ end
 
 def id_generator
   pioneer = {
-    :name => "Grace Hopper"
+    :id_generator => ("Grace Hopper")
   }
 end
 
