@@ -18,7 +18,7 @@ end
 
 def id_generator
   sup = {
-    :key => 2
+    :id => 2
   }
   return sup
 end
